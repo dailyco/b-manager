@@ -33,12 +33,12 @@ BOONEY 프로젝트는 () 재정 관리 서비스를 제공합니다.
 ## 설치 가이드
 ### 프로젝트 가져오기
 ```bash
-git clone https://github.com/dailyco/booney.git
+$ git clone https://github.com/dailyco/booney.git
 ```
 ### 코드 실행하기
 ```bash
-yarn install
-yarn start
+$ yarn install
+$ yarn start
 ```
 코드 실행후 http://localhost:3000 에서 확인 가능합니다!
 
