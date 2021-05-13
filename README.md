@@ -45,7 +45,7 @@ yarn start
 <br/>
 
 ## 프로젝트 개발 내용
-- [Dev Rule]()
+- [Dev Rule](https://github.com/dailyco/booney/wiki/%F0%9F%A4%99%F0%9F%8F%BB-Dev-Rule)
 - [Design]()
 - [Convention]()
 - [Dev Log]()
