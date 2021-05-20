@@ -46,7 +46,7 @@ $ yarn start
 
 ## 프로젝트 개발 내용
 - [Dev Rule](https://github.com/dailyco/booney/wiki/%F0%9F%A4%99%F0%9F%8F%BB-Dev-Rule)
-- [Design]()
+- [Design](https://www.figma.com/file/ztqmM0pqcrhQwl0PsgDjE9/Booney)
 - [Convention]()
 - [Dev Log]()
 
